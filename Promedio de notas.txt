@@ -1,0 +1,17 @@
+Notas de los alumnos
+-----------------------------------
+Alumno: Juan
+Promedio: 91.00
+
+Alumno: Jose
+Promedio: 48.25
+
+Alumno: Pedro
+Promedio: 82.25
+
+Alumno: Alvaro
+Promedio: 77.50
+
+Alumno: Anibal
+Promedio: 74.75
+
